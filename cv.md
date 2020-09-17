@@ -10,3 +10,5 @@
 **My goal** is to understand a new profession and realize myself in it.
 It is **important** for me that my profession allows me to create something new, high-quality and necessary.
 **My strengths** are flexibility, self-learning, responsibility, attentiveness, punctuality.
+
+__Skills:__ HTML, CSS, JavaScript, Git, Autocad, Revit (Bim), SketchUp
