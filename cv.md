@@ -18,3 +18,15 @@ __Projects:__
 
 __Code examples:__
 * maybe tommorow
+
+__Education__
+* Kuban State Agrarian University (KubSAU), 2015 graduation
+Bachelor's degree in Construction Engineering  (080301, Industrial and civil construction)
+Master's degree in Construction Engineering (080401, Construction)  
+
+Course: [JavaScript/Front-end in The Rolling Scopes School](https://rs.school/js/) (working on it)
+
+__Languages__
+B1-B2 level of English
+Basic level of Belarusian
+Russian - native
