@@ -6,3 +6,7 @@
 * [Link to VK](https://vk.com/sickelektricmind)
 * [Link to Telegram](https://t.me/PokotiloGleb)
 * [Link to WhatsApp](https://wa.me/+79282410038)
+
+**My goal** is to understand a new profession and realize myself in it.
+It is **important** for me that my profession allows me to create something new, high-quality and necessary.
+**My strengths** are flexibility, self-learning, responsibility, attentiveness, punctuality.
