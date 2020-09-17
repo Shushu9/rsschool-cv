@@ -12,3 +12,9 @@ It is **important** for me that my profession allows me to create something new,
 **My strengths** are flexibility, self-learning, responsibility, attentiveness, punctuality.
 
 __Skills:__ HTML, CSS, JavaScript, Git, Autocad, Revit (Bim), SketchUp
+
+__Projects:__
+* maybe in future
+
+__Code examples:__
+* maybe tommorow
