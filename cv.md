@@ -27,7 +27,9 @@ constructions project of reinforced concrete and metal structures for multi-stor
 Flexibility, self-learning, responsibility, attentiveness, activity.
 
 ## __Skills:__ 
+
 *Programming:* | HTML | CSS | JavaScript | C | Git | Visual Studio Code
+
 *Otrer:* | Autocad | Nanocad | Revit | SketchUp 
 
 
