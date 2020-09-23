@@ -1,5 +1,5 @@
 # Gleb Pokotilo
-![My face](/images/foto.jpg)
+![My face](/images/photo.png)
 
 
 
@@ -12,11 +12,15 @@
 * [Link to WhatsApp](https://wa.me/+79282410038)
 
 ## **Summary**
->My goal is to become junior developer in it sphere and realize myself in it.
-> Already realized mysels as a:
-> Sound engineer,  by working at budget concert venues (parks, and main city areas) 
-> Design engineer in individual housing construction, having acquired all the necessary skills to create working drawings, estimate calculation and build your own house
-> Design engineer in biggest developer company in Russia, where a having learned how to work with Building Information Model (BIM) and create develop a project of reinforced concrete and metal structures for multi-storey buildings 
+My goal is to become junior developer in it sphere and realize myself in it.
+
+Already realized mysels as a:
+
+Sound engineer,  by working at budget concert venues (parks, and main city areas) 
+
+Design engineer in individual housing construction, having acquired all the necessary skills to create working drawings, estimate calculation and build your own house
+
+Design engineer in biggest developer company in Russia, where a having learned how to work with Building Information Model (BIM) and create develop a project of reinforced concrete and metal structures for multi-storey buildings 
 
 ## **My strengths**
 Flexibility, self-learning, responsibility, attentiveness, activity.
@@ -25,7 +29,7 @@ Flexibility, self-learning, responsibility, attentiveness, activity.
 *Programming:* | HTML | CSS | JavaScript | C | Git | Visual Studio Code
 ---------------|------|-----|------------|---|-----|-------------------
 *Otrer:* | Autocad | Nanocad | Revit | SketchUp 
----------|---------|---------|-------|---------
+
 
 ## __Projects:__
 In future there will be links on my projects
