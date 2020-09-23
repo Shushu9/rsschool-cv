@@ -1,4 +1,7 @@
 # Gleb Pokotilo
+![GitHub Logo](/images/foto.img)
+Format: ![my face](url)
+
 
 ## **My contacts**
 * located in Krasnodar, Russia
@@ -10,17 +13,17 @@
 
 ## **Summary**
 My goal is to become junior developer in it sphere and realize myself in it.
-Already realized mysels as a:
-Sound engineer,  by working at budget concert venues (parks, and main city areas) 
-Design engineer in individual housing construction, having acquired all the necessary skills to create working drawings, estimate calculation and build your own house
-Design engineer in biggest developer company in Russia,   where a having learned how to work with Building Information Model (BIM) and create develop a project of reinforced concrete and metal structures for multi-storey buildings 
+> Already realized mysels as a:
+> Sound engineer,  by working at budget concert venues (parks, and main city areas) 
+> Design engineer in individual housing construction, having acquired all the necessary skills to create working drawings, estimate calculation and build your own house
+> Design engineer in biggest developer company in Russia,   where a having learned how to work with Building Information Model (BIM) and create develop a project of reinforced concrete and metal structures for multi-storey buildings 
 
 ## **My strengths**
 Flexibility, self-learning, responsibility, attentiveness, activity.
 
 ## __Skills:__ 
-**Programming:**| HTML | CSS | JavaScript | C | Git | Visual Studio Code
-**Otrer:**| Autocad | Nanocad | Revit | SketchUp 
+*Programming:* | HTML | CSS | JavaScript | C | Git | Visual Studio Code
+*Otrer:* | Autocad | Nanocad | Revit | SketchUp 
 
 ## __Projects:__
 In future there will be links on my projects
@@ -40,7 +43,7 @@ const multiplyNumberFromRange = (start, finish) => {
 ```
 ## __Education__
 * Kuban State Agrarian University (KubSAU), 2015 graduation
-Bachelor's degree in Construction Engineering  (080301, Industrial and civil construction)
+* Bachelor's degree in Construction Engineering  (080301, Industrial and civil construction)
 Master's degree in Construction Engineering (080401, Construction)  
 
 Course: [JavaScript/Front-end in The Rolling Scopes School](https://rs.school/js/) (working on it)
